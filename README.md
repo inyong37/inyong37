@@ -10,9 +10,10 @@
 - **Korea University**, *145, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea* - Bachelor's degree (Electrical Engineering)
 
 ### :bulb: Award
+To be updated
 
 ### :fire: [Projects](https://github.com/inyong37/Projects)
-Still working on...
+Still working on
 
 <!--
 **inyong37/inyong37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
