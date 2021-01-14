@@ -4,6 +4,10 @@
 
 ### Hi there 👋
 
+Master's degree in Electrical Engineering, Korea University (Seoul).
+
+Bachelor's degree in Electrical Engineering, Korea University (Seoul).
+
 <!--
 **inyong37/inyong37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
