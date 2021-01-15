@@ -4,6 +4,7 @@
 
 ### :computer: Experience
 - **TmaxA&C**, *Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea* - Researcher (as military service/전문연구요원)
+- **Korea University**, *145, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea* - Undergraduate Research Student (KU학부연구생)
 
 ### :books: Education
 - **Korea University**, *145, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea* - Master's degree (Electrical Engineering)
