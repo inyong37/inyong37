@@ -13,6 +13,11 @@
 ### :bulb: Award
 To be updated
 
+|Date|Competition name|Host organization|Award|
+|:-:|:-:|:-:|:-:|
+|2019-01-23|Object Recognition AI Hackathon Contest with Intel|Korea University Engineering Education Innovation Center, Korea Women Science and Engineers Support Center|Encouragement Award|
+|2018-08-12|2018 Korea University Software Hackathon|Korea University College of Information|The Most Excellent Award, AWS Special Award|
+
 ### :fire: [Projects](https://github.com/inyong37/Projects)
 Still working on
 
