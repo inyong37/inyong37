@@ -17,7 +17,7 @@ To be updated.
 Still working on.
 
 ### 🔭 Interest
-- **Deep Learning**, **Computer Vision**, Natural Language Processing, **Electrical Engineering**, **Computer Science**, and Biotechnology.
+- ***Deep Learning**, **Computer Vision**, Natural Language Processing, **Electrical Engineering**, **Computer Science**, and Biotechnology*.
 
 <!--
 **inyong37/inyong37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
