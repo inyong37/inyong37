@@ -7,8 +7,8 @@
 - **Korea University**, *145, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea* - Undergraduate Research Student (KU학부연구생)
 
 ### :books: Education
-- **Korea University**, *145, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea* - Master's degree (Electrical Engineering)
-- **Korea University**, *145, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea* - Bachelor's degree (Electrical Engineering)
+- **Korea University**, *145, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea* - Master's degree (Electrical Engineering/전기전자공학과)
+- **Korea University**, *145, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea* - Bachelor's degree (Electrical Engineering/전기전자공학부)
 
 ### :bulb: Award
 To be updated.
