@@ -11,11 +11,14 @@
 - **Korea University**, *145, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea* - Master's degree (Electrical Engineering/전기전자공학과)
 - **Korea University**, *145, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea* - Bachelor's degree (Electrical Engineering/전기전자공학부)
 
-### :bulb: Award
+### :tada: Award
 - :point_right: *[List of awards (written in Korean)](https://github.com/inyong37/Projects/blob/master/Awards.md)* :point_left:
 
 ### :fire: Project
 - :point_right: *[List of projects that participated in the contest (written in Korean)](https://github.com/inyong37/Projects)* :point_left:
+
+### :bulb: Training
+- :point_right: *[List of trainings (written in Korean)](https://github.com/inyong37/Projects/blob/master/Trainings.md)* :point_left:
 
 ### 🔭 Interest
 - <img src="https://img.shields.io/badge/Computer%20Vision-Electrical%20Engineering-yellow"/> 
