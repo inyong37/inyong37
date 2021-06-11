@@ -3,8 +3,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finyong37&count_bg=%2379C83D&title_bg=%2326BED9&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://img.shields.io/badge/Computer%20Vision-Electrical%20Engineering-yellow"/></a>
 
-<img src="https://img.shields.io/badge/Computer%20Vision-Electrical%20Engineering-yellow"/> <img src="https://img.shields.io/badge/Natural%20Language%20Processing-Biotechnology-green"/> <img src="https://img.shields.io/badge/Deep%20Learning-Computer%20Science-lightgrey"/>
-
 ### :computer: Experience
 - **TmaxA&C**, *Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea* - Researcher (as military service/전문연구요원)
 - **Korea University**, *145, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea* - Undergraduate Research Student (KU학부연구생)
@@ -14,15 +12,15 @@
 - **Korea University**, *145, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea* - Bachelor's degree (Electrical Engineering/전기전자공학부)
 
 ### :bulb: Award
-- :point_right: [List of awards (written in Korean)](https://github.com/inyong37/Projects/blob/master/Awards.md) :point_left:
+- :point_right: *[List of awards (written in Korean)](https://github.com/inyong37/Projects/blob/master/Awards.md)* :point_left:
 
 ### :fire: Project
-- :point_right: [List of projects that participated in the contest (written in Korean)](https://github.com/inyong37/Projects) :point_left:
+- :point_right: *[List of projects that participated in the contest (written in Korean)](https://github.com/inyong37/Projects)* :point_left:
 
 ### 🔭 Interest
-- **Computer Vision**, and *Electrical Engineering*
-- **Natural Language Processing**, and *Biotechnology*
-- **Deep Learning**, and *Computer Science*
+- <img src="https://img.shields.io/badge/Computer%20Vision-Electrical%20Engineering-yellow"/> 
+- <img src="https://img.shields.io/badge/Natural%20Language%20Processing-Biotechnology-green"/> 
+- <img src="https://img.shields.io/badge/Deep%20Learning-Computer%20Science-blue"/>
 
 <!--
 **inyong37/inyong37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
