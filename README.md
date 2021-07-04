@@ -25,6 +25,10 @@
 - <img src="https://img.shields.io/badge/Natural%20Language%20Processing-Biotechnology-green"/> 
 - <img src="https://img.shields.io/badge/Deep%20Learning-Computer%20Science-blue"/>
 
+### :bar_chart: Stat
+- [![inyong's github stats](https://github-readme-stats.vercel.app/api?username=inyong37&show_icons=true&theme=dark&hide_title=true)](https://github.com/inyong37)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inyong37&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/inyong37)
+
 <!--
 **inyong37/inyong37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
