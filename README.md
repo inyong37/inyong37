@@ -11,8 +11,8 @@
 - **Korea University**, *145, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea* - Master's degree (Electrical Engineering/전기전자공학과)
 - **Korea University**, *145, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea* - Bachelor's degree (Electrical Engineering/전기전자공학부)
 
-### :tada: Award
-- :point_right: *[List of awards (written in Korean)](https://github.com/inyong37/Projects/blob/master/Awards.md)* :point_left:
+### :tada: Awards
+- *List of awards :point_right: [English](https://github.com/inyong37/Projects/blob/master/Awards_EN.md)* :point_left: :point_right: [Korean](https://github.com/inyong37/Projects/blob/master/Awards_KR.md)* :point_left:
 
 ### :fire: Project
 - :point_right: *[List of projects that participated in the contest (written in Korean)](https://github.com/inyong37/Projects)* :point_left:
