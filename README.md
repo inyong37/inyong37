@@ -6,7 +6,7 @@
 ### 🔭 Interest
 *I am currently interested in Artificial General Intelligence, Multimodal Learning, Zero/One/Few-shot Learning, Computer Vision, Natural Laguage Processing, Cognitive Science, and Bioinformatics.*
 
-I was previously interested in optical character recognition, single-camera depth prediction, object recognition and detection, and smoke removal among computer vision. Additionally, I was also interested in autonomous driving and flying with computer vision. Therefore, I have done projects and research on these topics.
+I was previously interested in optical character recognition, single-camera depth prediction, object recognition and detection, and smoke removal among computer vision. Additionally, I was also interested in autonomous driving and flying with computer vision. Therefore, I have done projects and research on these topics. In addition, I have proposed and carried out various projects to solve social problems.
 
 <!--
 - <img src="https://img.shields.io/badge/Computer%20Vision-Electrical%20Engineering-yellow"/> 
