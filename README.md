@@ -43,8 +43,11 @@
 - *[List of projects that participated in the contest (written in Korean)](https://github.com/inyong37/Projects)*
 -->
 
-### :bulb: Training
+### :bulb: [Training](https://github.com/inyong37/Projects/blob/master/Certificate.md)
+
+<!--
 - :point_right: *[List of trainings (written in Korean)](https://github.com/inyong37/Projects/blob/master/Trainings.md)* :point_left:
+-->
 
 ### :bar_chart: Stat
 - [![inyong's github stats](https://github-readme-stats.vercel.app/api?username=inyong37&show_icons=true&theme=dark&hide_title=true)](https://github.com/inyong37)
