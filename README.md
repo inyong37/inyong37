@@ -4,7 +4,7 @@
 <a href="https://img.shields.io/badge/Computer%20Vision-Electrical%20Engineering-yellow"/></a>
 
 ### 🔭 Interest
-*I am interested in Artificial General Intelligence, Multimodal Learning, Zero/One/Few-shot Learning, Computer Vision, Natural Laguage Processing, Cognitive Science, and Bioinformatics.*
+*I am currently interested in Artificial General Intelligence, Multimodal Learning, Zero/One/Few-shot Learning, Computer Vision, Natural Laguage Processing, Cognitive Science, and Bioinformatics.*
 
 <!--
 - <img src="https://img.shields.io/badge/Computer%20Vision-Electrical%20Engineering-yellow"/> 
