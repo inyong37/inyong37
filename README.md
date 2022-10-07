@@ -12,7 +12,7 @@
 - <img src="https://img.shields.io/badge/Deep%20Learning-Computer%20Science-blue"/>
 -->
 
-### :computer: Experience
+### :computer: [Experience](https://github.com/inyong37/Projects/blob/master/Experience.md)
 - **TmaxA&C, Gyeonggi-do, Korea** - Technical Research Personnel (Researcher on Military Service)
 - **Korea University, Seoul, Korea** - Master's Student
 - **Korea University, Seoul, Korea** - Undergraduate Student Intern
@@ -35,7 +35,8 @@
 - *List of awards :point_right: [English](https://github.com/inyong37/Projects/blob/master/Awards_EN.md) :point_left: :point_right: [Korean](https://github.com/inyong37/Projects/blob/master/Awards_KR.md)* :point_left:
 
 ### :fire: Project
-- :point_right: *[List of projects that participated in the contest (written in Korean)](https://github.com/inyong37/Projects)* :point_left:
+- [Brief version](https://github.com/inyong37/Projects/blob/master/Project.md)
+- [Non brief version (List of projects that participated in the contest written in Korean)](https://github.com/inyong37/Projects)
 
 ### :bulb: Training
 - :point_right: *[List of trainings (written in Korean)](https://github.com/inyong37/Projects/blob/master/Trainings.md)* :point_left:
