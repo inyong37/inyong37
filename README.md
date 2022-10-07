@@ -13,9 +13,9 @@
 -->
 
 ### :computer: Experience
-- **TmaxA&C, Gyeonggi-do, Korea** 
+- **TmaxA&C, Gyeonggi-do, Korea** - Technical Research Personnel (Researcher on Military Service)
 - **Korea University, Seoul, Korea** - Master's Student
-- **Korea University, Seoul, Korea** - Undergraduate Student
+- **Korea University, Seoul, Korea** - Undergraduate Student Intern
 
 <!--
 - **TmaxA&C**, *Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea* - Researcher (as military service/전문연구요원)
