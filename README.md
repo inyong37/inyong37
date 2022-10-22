@@ -45,7 +45,7 @@ I was previously interested in optical character recognition, single-camera dept
 - *[List of projects that participated in the contest (written in Korean)](https://github.com/inyong37/Projects)*
 -->
 
-### :bulb: [Training](https://github.com/inyong37/Projects/blob/master/Certificate.md)
+### :bulb: [Certificates](https://github.com/inyong37/Projects/blob/master/Certificate.md) <!-- [Training](https://github.com/inyong37/Projects/blob/master/Certificate.md) -->
 
 <!--
 - :point_right: *[List of trainings (written in Korean)](https://github.com/inyong37/Projects/blob/master/Trainings.md)* :point_left:
