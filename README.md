@@ -1,4 +1,4 @@
-# Inyong Hwang 👋
+# Inyong Hwang :microscope:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finyong37&count_bg=%2379C83D&title_bg=%2326BED9&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://img.shields.io/badge/Computer%20Vision-Electrical%20Engineering-yellow"/></a>
@@ -51,7 +51,7 @@ I was previously interested in optical character recognition, single-camera dept
 - :point_right: *[List of trainings (written in Korean)](https://github.com/inyong37/Projects/blob/master/Trainings.md)* :point_left:
 -->
 
-### :bar_chart: Stat
+### :bar_chart: States
 - [![inyong's github stats](https://github-readme-stats.vercel.app/api?username=inyong37&show_icons=true&theme=dark&hide_title=true)](https://github.com/inyong37)
 
 <!--
@@ -61,7 +61,7 @@ I was previously interested in optical character recognition, single-camera dept
 <!--
 **inyong37/inyong37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -72,4 +72,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
