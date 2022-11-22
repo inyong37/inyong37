@@ -51,6 +51,14 @@ I was previously interested in optical character recognition, single-camera dept
 - :point_right: *[List of trainings (written in Korean)](https://github.com/inyong37/Projects/blob/master/Trainings.md)* :point_left:
 -->
 
+### Git
+
+<!--
+나는 computer science, computer engineering, and electrical engineering에 대한 전반적인 내용을 공부하는 git repository와 artificial intelligence, machine learning, deep learning, computer vision, natural language process에 대해 논문을 정리하는 git repositry를 정리하고 있다.
+-->
+
+I am organizing a git repository named [inyong37/Study](https://github.com/inyong37/Study) that studies general information on computer science, computer engineering, and electrical engineering, and a git repository named [Soloura/Study](https://github.com/Soloura/Study) that organizes papers on artificial intelligence, machine learning, deep learning, computer vision, and natural language process.
+
 ### :bar_chart: States
 - [![inyong's github stats](https://github-readme-stats.vercel.app/api?username=inyong37&show_icons=true&theme=dark&hide_title=true)](https://github.com/inyong37)
 
