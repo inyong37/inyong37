@@ -25,8 +25,8 @@ I was previously interested in optical character recognition, single-camera dept
 -->
 
 ### :books: Education
-- **Korea University, Seoul, Korea** - Master of Engineering in Computer Engineering
-- **Korea University, Seoul, Korea** - Bachelor of Engineering in Electrical Engineering
+- **Korea University, Seoul, Korea** - Master of Engineering in Computer Engineering :computer:
+- **Korea University, Seoul, Korea** - Bachelor of Engineering in Electrical Engineering :zap:
 
 <!--
 - **Korea University**, *145, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea* - Master's degree (Electrical Engineering/전기전자공학과)
