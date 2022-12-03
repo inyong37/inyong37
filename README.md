@@ -4,6 +4,7 @@
 <a href="https://img.shields.io/badge/Computer%20Vision-Electrical%20Engineering-yellow"/></a>
 
 ### 🔭 Interest
+
 *I am currently interested in Artificial General Intelligence, Multimodal Learning, Zero/One/Few-shot Learning, Computer Vision, Natural Language Processing, Cognitive Science, and Bioinformatics.*
 
 I was previously interested in optical character recognition, single-camera depth prediction, object recognition and detection, and smoke removal among computer vision. Additionally, I was also interested in autonomous driving and flying with computer vision. Therefore, I have done projects and research on these topics. In addition, I have proposed and carried out various projects to solve social problems.
@@ -15,6 +16,7 @@ I was previously interested in optical character recognition, single-camera dept
 -->
 
 ### :computer: [Experience](https://github.com/inyong37/Projects/blob/master/Experience.md)
+
 - **TmaxA&C, Gyeonggi-Do, Korea** - Technical Research Personnel (serving in military service)
 - **Korea University, Seoul, Korea** - Master's Student :mortar_board:
 - **Korea University, Seoul, Korea** - Undergraduate Student Intern :mortar_board:
@@ -25,6 +27,7 @@ I was previously interested in optical character recognition, single-camera dept
 -->
 
 ### :books: Education
+
 - **Korea University, Seoul, Korea** - Master of Engineering in Computer Engineering :desktop_computer:
 - **Korea University, Seoul, Korea** - Bachelor of Engineering in Electrical Engineering :zap:
 
@@ -60,6 +63,7 @@ I was previously interested in optical character recognition, single-camera dept
 I am organizing a git repository named [inyong37/Study](https://github.com/inyong37/Study) that studies general information such as books, frameworks, and concepts on computer science, computer engineering, and electrical engineering, and a git repository named [Soloura/Study](https://github.com/Soloura/Study) that organizes papers on artificial intelligence, machine learning, deep learning, computer vision, and natural language process.
 
 ### :bar_chart: States
+
 - [![inyong's github stats](https://github-readme-stats.vercel.app/api?username=inyong37&show_icons=true&theme=dark&hide_title=true)](https://github.com/inyong37)
 
 <!--
