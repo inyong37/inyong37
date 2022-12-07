@@ -18,15 +18,15 @@ I was previously interested in optical character recognition, single-camera dept
 ### :computer: [Experience](https://github.com/inyong37/Projects/blob/master/Experience.md)
 
 - **TmaxA&C, Gyeonggi-Do, Korea** - Technical Research Personnel (serving in military service)
-- **Korea University, Seoul, Korea** - Master's Student :mortar_board:
-- **Korea University, Seoul, Korea** - Undergraduate Student Intern :mortar_board:
+- **Korea University, Seoul, Korea** - Master's Student (2 Years)
+- **Korea University, Seoul, Korea** - Undergraduate Student Intern (8 Months)
 
 <!--
 - **TmaxA&C**, *Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea* - Researcher (as military service/전문연구요원)
 - **Korea University**, *145, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea* - Undergraduate Research Student (KU학부연구생)
 -->
 
-### :books: Education
+### :mortar_board: Education
 
 - **Korea University, Seoul, Korea** - Master of Engineering in Computer Engineering :desktop_computer:
 - **Korea University, Seoul, Korea** - Bachelor of Engineering in Electrical Engineering :zap:
