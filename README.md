@@ -1,4 +1,4 @@
-# Inyong Hwang :microscope:
+# Inyong Hwang :christmas_tree:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finyong37&count_bg=%2379C83D&title_bg=%2326BED9&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://img.shields.io/badge/Computer%20Vision-Electrical%20Engineering-yellow"/></a>
@@ -42,7 +42,7 @@ I was previously interested in optical character recognition, single-camera dept
 - *List of awards :point_right: [English](https://github.com/inyong37/Projects/blob/master/Awards_EN.md) :point_left: :point_right: [Korean](https://github.com/inyong37/Projects/blob/master/Awards_KR.md)* :point_left:
 -->
 
-### :fire: [Projects](https://github.com/inyong37/Projects/blob/master/Project.md)
+### :microscope: [Projects](https://github.com/inyong37/Projects/blob/master/Project.md)
 
 <!--
 - *[List of projects that participated in the contest (written in Korean)](https://github.com/inyong37/Projects)*
