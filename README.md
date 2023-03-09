@@ -5,9 +5,17 @@
 
 ### 🔭 Interest
 
+I'm passionate about exploring cutting-edge technologies and their potential to solve real-world problems. Currently, my interests lie in the fields of Artificial General Intelligence, Multimodal Learning, Zero/One/Few-shot Learning, Computer Vision, Natural Language Processing, Cognitive Science, and Bioinformatics.
+
+In the past, I have worked on exciting projects in areas such as optical character recognition, single-camera depth prediction, object recognition and detection, and smoke removal in computer vision. I've also explored the use of computer vision in autonomous driving and flying. I'm always eager to expand my knowledge and have carried out various projects to solve social problems.
+
+I believe that technology can be a powerful tool to make a positive impact on society, and I'm committed to leveraging my skills and experience to contribute to this goal.
+
+<!--
 *I am currently interested in Artificial General Intelligence, Multimodal Learning, Zero/One/Few-shot Learning, Computer Vision, Natural Language Processing, Cognitive Science, and Bioinformatics.*
 
 I was previously interested in optical character recognition, single-camera depth prediction, object recognition and detection, and smoke removal among computer vision. Additionally, I was also interested in autonomous driving and flying with computer vision. Therefore, I have done projects and research on these topics. In addition, I have proposed and carried out various projects to solve social problems.
+-->
 
 <!--
 - <img src="https://img.shields.io/badge/Computer%20Vision-Electrical%20Engineering-yellow"/> 
