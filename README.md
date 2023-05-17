@@ -70,6 +70,14 @@ I was previously interested in optical character recognition, single-camera dept
 
 I am organizing a git repository named [inyong37/Study](https://github.com/inyong37/Study) that studies general information such as books, frameworks, and concepts on computer science, computer engineering, and electrical engineering, and a git repository named [Soloura/Study](https://github.com/Soloura/Study) that organizes papers on artificial intelligence, machine learning, deep learning, computer vision, and natural language process.
 
+I have a deep passion for open-source projects and collaborations, and I actively contribute whenever the opportunity arises. While my current contributions may be in smaller areas, such as documentation, my goal is to make increasingly impactful contributions over time. I believe in the power of collective efforts and the positive impact that open-source communities can have. I am excited to continue expanding my involvement and make substantial contributions that benefit the community as a whole.
+
+[Tensorflow](https://github.com/tensorflow/addons/pull/2621), [Visual Studio](https://github.com/MicrosoftDocs/visualstudio-docs/pull/6345), [MDN](https://github.com/mdn/content/pull/11190), [Verdaccio](https://github.com/verdaccio/verdaccio/pull/3828), [ClovaAI](https://github.com/clovaai/CRAFT-pytorch/issues/16), [Python](https://github.com/python/pythondotorg/issues/2150)
+
+<!--
+I have a strong passion for open source projects and collaborations. So I'm contributing whenever I get a chance. It's still a small thing like documentation, but I hope to make a bigger contribution over time.
+-->
+
 ### :bar_chart: States
 
 - [![inyong's github stats](https://github-readme-stats.vercel.app/api?username=inyong37&show_icons=true&theme=dark&hide_title=true)](https://github.com/inyong37)
