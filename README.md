@@ -17,7 +17,7 @@ I believe that technology can be a powerful tool to make a positive impact on so
 I was previously interested in optical character recognition, single-camera depth prediction, object recognition and detection, and smoke removal among computer vision. Additionally, I was also interested in autonomous driving and flying with computer vision. Therefore, I have done projects and research on these topics. In addition, I have proposed and carried out various projects to solve social problems.
 -->
 
-<!--
+<!--d
 - <img src="https://img.shields.io/badge/Computer%20Vision-Electrical%20Engineering-yellow"/> 
 - <img src="https://img.shields.io/badge/Natural%20Language%20Processing-Biotechnology-green"/> 
 - <img src="https://img.shields.io/badge/Deep%20Learning-Computer%20Science-blue"/>
