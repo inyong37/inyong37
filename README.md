@@ -37,7 +37,7 @@ I was previously interested in optical character recognition, single-camera dept
 
 ### :mortar_board: Education
 
-- **Korea University, Seoul, Korea** - Master of Engineering in Computer Engineering :desktop_computer:
+- **Korea University, Seoul, Korea** - Master of Engineering in Electrical and Computer Engineering :desktop_computer:
 - **Korea University, Seoul, Korea** - Bachelor of Engineering in Electrical Engineering :zap:
 
 <!--
