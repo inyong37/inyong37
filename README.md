@@ -51,7 +51,7 @@ I was previously interested in optical character recognition, single-camera dept
 - *List of awards :point_right: [English](https://github.com/inyong37/Projects/blob/master/Awards_EN.md) :point_left: :point_right: [Korean](https://github.com/inyong37/Projects/blob/master/Awards_KR.md)* :point_left:
 -->
 
-### :microscope: [Projects](https://github.com/inyong37/Projects/blob/master/Project.md)
+### :microscope: [Projects and Researches](https://github.com/inyong37/Projects/blob/master/Researches.md)
 
 <!--
 - *[List of projects that participated in the contest (written in Korean)](https://github.com/inyong37/Projects)*
