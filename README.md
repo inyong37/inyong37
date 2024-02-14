@@ -25,10 +25,10 @@ I was previously interested in optical character recognition, single-camera dept
 
 ### :computer: [Experience](https://github.com/inyong37/Projects/blob/master/Experience.md)
 
-- **Boeing, Seoul, Korea** - AI/ML Engineer
-- **TmaxA&C, Gyeonggi-Do, Korea** - Technical Research Personnel <!-- (serving in military service) -->
-- **Korea University, Seoul, Korea** - Master's Student
-- **Korea University, Seoul, Korea** - Undergraduate Student Intern
+- **Boeing, Seoul, KR** - AI/ML Engineer
+- **TmaxA&C, Gyeonggi-Do, KR** - Technical Research Personnel <!-- (serving in military service) -->
+- **Korea University, Seoul, KR** - Master's Student
+- **Korea University, Seoul, KR** - Undergraduate Student Intern
 
 <!--
 - **TmaxA&C**, *Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea* - Researcher (as military service/전문연구요원)
@@ -37,8 +37,8 @@ I was previously interested in optical character recognition, single-camera dept
 
 ### :mortar_board: Education
 
-- **Korea University, Seoul, Korea** - Master of Engineering in Electrical and Computer Engineering :desktop_computer:
-- **Korea University, Seoul, Korea** - Bachelor of Engineering in Electrical Engineering :zap:
+- **Korea University, Seoul, KR** - Master of Engineering in Electrical and Computer Engineering :desktop_computer:
+- **Korea University, Seoul, KR** - Bachelor of Engineering in Electrical Engineering :zap:
 
 <!--
 - **Korea University**, *145, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea* - Master's degree (Electrical Engineering/전기전자공학과)
