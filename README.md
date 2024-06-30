@@ -73,7 +73,7 @@ I am organizing a git repository named [inyong37/Study](https://github.com/inyon
 
 I have a deep passion for open-source projects and collaborations, and I actively contribute whenever the opportunity arises. While my current contributions may be in smaller areas, such as documentation, my goal is to make increasingly impactful contributions over time. I believe in the power of collective efforts and the positive impact that open-source communities can have. I am excited to continue expanding my involvement and make substantial contributions that benefit the community as a whole.
 
-[Tensorflow](https://github.com/tensorflow/addons/pull/2621), [ONNX](https://github.com/onnx/onnx.github.io/pull/193), [Visual Studio](https://github.com/MicrosoftDocs/visualstudio-docs/pull/6345), [MDN](https://github.com/mdn/content/pull/11190), [Verdaccio](https://github.com/verdaccio/verdaccio/pull/3828), [ClovaAI](https://github.com/clovaai/CRAFT-pytorch/issues/16), [Python](https://github.com/python/pythondotorg/issues/2150)
+[Tensorflow](https://github.com/tensorflow/addons/pull/2621), [ONNX](https://github.com/onnx/onnx.github.io/pull/193), [Visual Studio](https://github.com/MicrosoftDocs/visualstudio-docs/pull/6345), [MDN](https://github.com/mdn/content/pull/11190), [Verdaccio](https://github.com/verdaccio/verdaccio/pull/3828), [ClovaAI](https://github.com/clovaai/CRAFT-pytorch/issues/16), [Python](https://github.com/python/pythondotorg/issues/2150), [Lightning](https://github.com/Lightning-AI/pytorch-lightning/pull/19677)
 
 <!--
 I have a strong passion for open source projects and collaborations. So I'm contributing whenever I get a chance. It's still a small thing like documentation, but I hope to make a bigger contribution over time.
