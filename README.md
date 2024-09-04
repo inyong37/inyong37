@@ -25,7 +25,7 @@ I was previously interested in optical character recognition, single-camera dept
 
 ### :computer: [Experience](https://github.com/inyong37/Projects/blob/master/Experience.md)
 
-- **Boeing, Seoul, KR** - AI/ML Engineer
+- **Boeing, Seoul, KR** - AI/ML SW Engineer
 - **TmaxA&C, Gyeonggi-Do, KR** - Technical Research Personnel <!-- (serving in military service) -->
 - **Korea University, Seoul, KR** - Master's Student
 - **Korea University, Seoul, KR** - Undergraduate Student Intern
